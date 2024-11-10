@@ -1,10 +1,10 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: networksecurity
 Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
 Author: Severin F
 Author-email: severin.filonov@gmil.com
-Requires-Dist: python-dotenv
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: certifi
-Requires-Dist: pymongo[srv]
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
